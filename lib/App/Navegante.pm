@@ -3,17 +3,19 @@ package App::Navegante;
 use warnings;
 use strict;
 
+=encoding utf-8
+
 =head1 NAME
 
 App::Navegante - a framework to build intrusive high order proxies
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -205,7 +207,7 @@ L<http://search.cpan.org/dist/App-Navegante>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008 Nuno Carvalho, all rights reserved.
+Copyright 2007-2012 Project Natura.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
